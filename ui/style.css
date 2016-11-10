@@ -20,8 +20,5 @@ body {
     height: 200px;
 }
 
-.newsletter:not( .newsletter--active ) input[type='submit']
-{
-    display: none;
-}
+
 
